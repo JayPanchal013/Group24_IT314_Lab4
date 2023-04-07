@@ -1,8 +1,14 @@
-.container-fluid{
-    padding: 0.7%;
-    background-color:maroon;
-}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Vidaloka&display=swap');
 body{
     background-image:url('p6.png');
     background-size: auto;
+    font-family: 'Vidaloka', serif;
+}
+.container-fluid{
+    padding: 0.7%;
+    background-color:#112D4E;
+    font-family: 'Roboto', sans-serif;    
+}
+.navbar-brand{
+    color:#F9F7F7;
 }
